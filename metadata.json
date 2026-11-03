@@ -1,0 +1,6 @@
+{
+  "name": "Agricultural Market Price Prediction System",
+  "description": "Machine learning-based agricultural commodity price prediction and market intelligence system for Indian farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

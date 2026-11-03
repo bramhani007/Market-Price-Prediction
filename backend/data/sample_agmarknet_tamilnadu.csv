@@ -1,0 +1,79 @@
+State,District,Market,Commodity,Variety,Arrival Date,Min Price,Max Price,Modal Price,Arrivals
+Tamil Nadu,Dindigul,Oddanchatram,Tomato,Local/Hybrid,2026-06-01,1800,2400,2150,45
+Tamil Nadu,Dindigul,Oddanchatram,Tomato,Local/Hybrid,2026-07-01,2200,3100,2750,38
+Tamil Nadu,Dindigul,Oddanchatram,Tomato,Local/Hybrid,2026-08-01,3200,4200,3800,24
+Tamil Nadu,Dindigul,Oddanchatram,Tomato,Local/Hybrid,2026-09-01,2600,3400,3050,32
+Tamil Nadu,Dindigul,Oddanchatram,Tomato,Local/Hybrid,2026-10-01,2100,2800,2450,42
+Tamil Nadu,Dindigul,Oddanchatram,Tomato,Local/Hybrid,2026-11-01,2400,3100,2800,36
+Tamil Nadu,Coimbatore,Coimbatore,Tomato,Hybrid,2026-06-01,1950,2600,2300,32
+Tamil Nadu,Coimbatore,Coimbatore,Tomato,Hybrid,2026-07-01,2400,3300,2900,28
+Tamil Nadu,Coimbatore,Coimbatore,Tomato,Hybrid,2026-08-01,3400,4400,4050,18
+Tamil Nadu,Coimbatore,Coimbatore,Tomato,Hybrid,2026-09-01,2800,3600,3250,25
+Tamil Nadu,Coimbatore,Coimbatore,Tomato,Hybrid,2026-10-01,2250,2950,2650,35
+Tamil Nadu,Coimbatore,Coimbatore,Tomato,Hybrid,2026-11-01,2550,3350,2980,30
+Tamil Nadu,Madurai,Madurai (Mattuthavani),Tomato,Local,2026-06-01,1850,2500,2200,28
+Tamil Nadu,Madurai,Madurai (Mattuthavani),Tomato,Local,2026-08-01,3300,4300,3900,20
+Tamil Nadu,Madurai,Madurai (Mattuthavani),Tomato,Local,2026-10-01,2150,2850,2500,38
+Tamil Nadu,Madurai,Madurai (Mattuthavani),Tomato,Local,2026-11-01,2450,3200,2850,31
+Tamil Nadu,Salem,Salem,Tomato,Hybrid,2026-08-01,3150,4100,3700,22
+Tamil Nadu,Salem,Salem,Tomato,Hybrid,2026-11-01,2350,3150,2780,29
+Tamil Nadu,Dindigul,Dindigul,Onion (Small),Shallots,2026-06-01,3200,4000,3650,55
+Tamil Nadu,Dindigul,Dindigul,Onion (Small),Shallots,2026-07-01,3400,4200,3850,50
+Tamil Nadu,Dindigul,Dindigul,Onion (Small),Shallots,2026-08-01,3900,4800,4400,42
+Tamil Nadu,Dindigul,Dindigul,Onion (Small),Shallots,2026-09-01,4400,5600,5100,34
+Tamil Nadu,Dindigul,Dindigul,Onion (Small),Shallots,2026-10-01,4800,6200,5600,28
+Tamil Nadu,Dindigul,Dindigul,Onion (Small),Shallots,2026-11-01,5200,6800,6150,22
+Tamil Nadu,Tiruchirappalli,Trichy (Gandhi Market),Onion (Small),Shallots,2026-06-01,3300,4200,3800,45
+Tamil Nadu,Tiruchirappalli,Trichy (Gandhi Market),Onion (Small),Shallots,2026-08-01,4100,5000,4600,36
+Tamil Nadu,Tiruchirappalli,Trichy (Gandhi Market),Onion (Small),Shallots,2026-10-01,5000,6400,5850,24
+Tamil Nadu,Tiruchirappalli,Trichy (Gandhi Market),Onion (Small),Shallots,2026-11-01,5400,7000,6350,19
+Tamil Nadu,Coimbatore,Coimbatore,Onion (Small),Shallots,2026-07-01,3500,4400,4000,38
+Tamil Nadu,Coimbatore,Coimbatore,Onion (Small),Shallots,2026-11-01,5350,6950,6280,21
+Tamil Nadu,Thanjavur,Thanjavur,Paddy (Dhan),Common,2026-06-01,2180,2320,2260,120
+Tamil Nadu,Thanjavur,Thanjavur,Paddy (Dhan),Common,2026-07-01,2200,2360,2290,110
+Tamil Nadu,Thanjavur,Thanjavur,Paddy (Dhan),Common,2026-08-01,2250,2410,2340,95
+Tamil Nadu,Thanjavur,Thanjavur,Paddy (Dhan),Common,2026-09-01,2280,2450,2380,85
+Tamil Nadu,Thanjavur,Thanjavur,Paddy (Dhan),Common,2026-10-01,2320,2500,2420,140
+Tamil Nadu,Thanjavur,Thanjavur,Paddy (Dhan),Common,2026-11-01,2300,2480,2400,160
+Tamil Nadu,Thanjavur,Kumbakonam,Paddy (Dhan),Grade A,2026-08-01,2310,2490,2410,80
+Tamil Nadu,Thanjavur,Kumbakonam,Paddy (Dhan),Grade A,2026-11-01,2360,2540,2460,125
+Tamil Nadu,Tiruchirappalli,Lalgudi,Paddy (Dhan),Common,2026-07-01,2210,2370,2300,90
+Tamil Nadu,Tiruchirappalli,Lalgudi,Paddy (Dhan),Common,2026-11-01,2320,2490,2415,130
+Tamil Nadu,Tirunelveli,Ambasamudram,Paddy (Dhan),Common,2026-09-01,2260,2420,2350,75
+Tamil Nadu,Tirunelveli,Ambasamudram,Paddy (Dhan),Common,2026-11-01,2290,2460,2380,95
+Tamil Nadu,Erode,Erode (Perundurai),Turmeric,Finger,2026-06-01,11200,13500,12400,85
+Tamil Nadu,Erode,Erode (Perundurai),Turmeric,Finger,2026-07-01,11800,14200,13100,70
+Tamil Nadu,Erode,Erode (Perundurai),Turmeric,Finger,2026-08-01,12600,15100,14000,60
+Tamil Nadu,Erode,Erode (Perundurai),Turmeric,Finger,2026-09-01,13100,15800,14600,52
+Tamil Nadu,Erode,Erode (Perundurai),Turmeric,Finger,2026-10-01,13800,16500,15300,45
+Tamil Nadu,Erode,Erode (Perundurai),Turmeric,Finger,2026-11-01,14200,17200,15900,40
+Tamil Nadu,Erode,Gobichettipalayam,Turmeric,Bulb,2026-08-01,10800,12800,11900,45
+Tamil Nadu,Erode,Gobichettipalayam,Turmeric,Bulb,2026-11-01,12100,14400,13350,35
+Tamil Nadu,Salem,Salem,Turmeric,Finger,2026-09-01,12800,15300,14200,38
+Tamil Nadu,Salem,Salem,Turmeric,Finger,2026-11-01,13900,16700,15450,32
+Tamil Nadu,Salem,Salem,Cotton,Medium Staple,2026-06-01,6800,7600,7250,40
+Tamil Nadu,Salem,Salem,Cotton,Medium Staple,2026-08-01,7000,7900,7500,35
+Tamil Nadu,Salem,Salem,Cotton,Medium Staple,2026-10-01,7300,8300,7850,50
+Tamil Nadu,Salem,Salem,Cotton,Medium Staple,2026-11-01,7150,8100,7680,65
+Tamil Nadu,Erode,Sathyamangalam,Cotton,Medium Staple,2026-08-01,6900,7750,7380,30
+Tamil Nadu,Erode,Sathyamangalam,Cotton,Medium Staple,2026-11-01,7100,8050,7620,48
+Tamil Nadu,Coimbatore,Pollachi,Cotton,Medium Staple,2026-09-01,7200,8100,7700,28
+Tamil Nadu,Coimbatore,Pollachi,Cotton,Medium Staple,2026-11-01,7280,8250,7800,38
+Tamil Nadu,Dindigul,Palani,Maize (Corn),Yellow,2026-06-01,2050,2280,2180,60
+Tamil Nadu,Dindigul,Palani,Maize (Corn),Yellow,2026-08-01,2120,2360,2250,52
+Tamil Nadu,Dindigul,Palani,Maize (Corn),Yellow,2026-10-01,2190,2440,2320,45
+Tamil Nadu,Dindigul,Palani,Maize (Corn),Yellow,2026-11-01,2240,2510,2390,40
+Tamil Nadu,Tiruppur,Udumalpet,Maize (Corn),Yellow,2026-07-01,2080,2310,2210,55
+Tamil Nadu,Tiruppur,Udumalpet,Maize (Corn),Yellow,2026-11-01,2260,2540,2420,44
+Tamil Nadu,Theni,Chinnamanur,Banana,Robusta,2026-06-01,1600,2100,1850,70
+Tamil Nadu,Theni,Chinnamanur,Banana,Robusta,2026-08-01,1750,2300,2050,65
+Tamil Nadu,Theni,Chinnamanur,Banana,Robusta,2026-10-01,1900,2550,2250,58
+Tamil Nadu,Theni,Chinnamanur,Banana,Robusta,2026-11-01,2000,2700,2380,50
+Tamil Nadu,Tiruchirappalli,Trichy (Gandhi Market),Banana,Poovan,2026-07-01,2100,2800,2480,55
+Tamil Nadu,Tiruchirappalli,Trichy (Gandhi Market),Banana,Poovan,2026-11-01,2350,3100,2750,48
+Tamil Nadu,Tiruppur,Kangeyam,Groundnut,Pods,2026-06-01,6400,7300,6900,40
+Tamil Nadu,Tiruppur,Kangeyam,Groundnut,Pods,2026-08-01,6700,7700,7250,34
+Tamil Nadu,Tiruppur,Kangeyam,Groundnut,Pods,2026-10-01,7000,8100,7600,46
+Tamil Nadu,Tiruppur,Kangeyam,Groundnut,Pods,2026-11-01,6900,7950,7480,55
+Tamil Nadu,Salem,Vazhapadi,Groundnut,Pods,2026-08-01,6600,7550,7120,32
+Tamil Nadu,Salem,Vazhapadi,Groundnut,Pods,2026-11-01,6850,7900,7420,40
